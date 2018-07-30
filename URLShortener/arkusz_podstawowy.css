@@ -1,0 +1,89 @@
+body {
+	background: #FFFFFF;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+}
+
+a {
+	color: black;
+}
+
+a img {
+	border: 0;
+}
+
+article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block;
+}
+
+h4 {
+	margin: 0px;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+/* Page */
+
+#page {
+	margin: 8px;
+}
+
+.bookmark {
+	text-align: center;
+	float: left;
+	padding: 5px;
+	width: 80px;
+	height: 60px;
+}
+
+.img {
+	height: 32px;
+	padding-bottom: 4px;
+}
+
+.img img {
+	width: 32px;
+}
+
+.bookmark a p {
+	margin: 0px;
+}
+
+/* Dodaj i usuń */
+
+.dodaj_usun {
+	text-align: center;
+}
+
+.zle_haslo {
+	color: red;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+/* Footer */
+
+footer {
+	clear: both;
+	text-align: right;
+	font-style: italic;
+	font-size: 85%;
+	margin: 8px;
+}
+
+#f_left {
+	float: left;
+	margin: 1px;
+}
+
+#f_left p {
+	margin: 0px;
+}
+
+#f_right {
+	float: right;
+}
+
+.cbalink {
+	display: none;
+}
